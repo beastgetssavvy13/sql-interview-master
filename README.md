@@ -2,13 +2,13 @@
 Compiled all the latest SQL materials for interview preparation
 # Prepare for SQL interview questions
 
-##  Tutorial
-SQL tutorial: https://tutorial.techaltum.com/SQLServer.html
-
 ## Youtube Link and Prior Interview Questions
 * GeeksforGeeks : https://www.youtube.com/playlist?list=PLqM7alHXFySGweLxxAdBDK1CcDEgF-Kwx
 * Kudvenkat: https://www.youtube.com/playlist?list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR
 * Edureka : https://www.youtube.com/watch?v=-WEpWH1NHGU
+
+##  Tutorial
+SQL tutorial: https://tutorial.techaltum.com/SQLServer.html
 
 ## Sample questions and solutions
 * SQl subquery: https://www.dofactory.com/sql/subquery
